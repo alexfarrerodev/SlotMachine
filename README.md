@@ -13,6 +13,7 @@ Welcome to the 3x3 Slot Machine Game! This is a simple slot machine game impleme
 
 | Symbol | Multiplier |
 |--------|------------|
+| 🍏     | 0.8        |
 | 🍒     | 1.0        |
 | 🍋     | 1.1        |
 | 🍊     | 1.25       |
@@ -20,7 +21,7 @@ Welcome to the 3x3 Slot Machine Game! This is a simple slot machine game impleme
 | 🍇     | 2.5        |
 | 🍓     | 3.0        |
 | 🍍     | 1.75       |
-| 🍏     | 0.8        |
+
 
 ## Additional Multipliers
 
